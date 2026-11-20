@@ -1,0 +1,109 @@
+{
+  "status": "draft",
+  "business": {
+    "name": "Big City Gadgets",
+    "shortName": "Big City Gadgets",
+    "tagline": "Pre-loved phones. Good finds.",
+    "description": "Shop a curated range of pre-loved Samsung Galaxy smartphones at Big City Gadgets, Ximex Mall, Harare CBD. Check listed prices and enquire directly on WhatsApp.",
+    "currencySymbol": "$",
+    "sampleNote": "All listed phones are pre-loved. Confirm current stock, device condition and final details directly with the shop."
+  },
+  "contact": {
+    "whatsapp": "263778063461",
+    "displayNumber": "+263 77 806 3461",
+    "address": "Ximex Mall, Harare CBD, Zimbabwe",
+    "hours": "Open 24 hours",
+    "email": "levigideon37@gmail.com"
+  },
+  "brand": {
+    "accent": "#1649A2",
+    "fontsUrl": "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap",
+    "logo": ""
+  },
+  "seo": {
+    "domain": "big-city-gadgets.pages.dev",
+    "ogImage": "bcg-hero.webp"
+  },
+  "hero": {
+    "image": "bcg-hero.webp",
+    "imageAlt": "Studio composition of foldable and flagship smartphones on a dark background",
+    "eyebrow": "SMARTPHONES  /  FOLDABLES  /  FLAGSHIPS",
+    "headline": "Good phones. Better finds.",
+    "subheadline": "A considered collection of pre-loved smartphones, selected for people who know what they want.",
+    "primaryCta": "Explore phones",
+    "secondaryCta": "Visit our store"
+  },
+  "nav": {
+    "links": [
+      {
+        "label": "Shop phones",
+        "href": "#shop"
+      },
+      {
+        "label": "Why Big City",
+        "href": "#why"
+      },
+      {
+        "label": "Find us",
+        "href": "#visit"
+      }
+    ],
+    "cta": "Chat on WhatsApp",
+    "message": "Hi Big City Gadgets, I found your website and would like to enquire about your phones."
+  },
+  "shop": {
+    "heading": "Find your next phone",
+    "searchLabel": "Search phones",
+    "searchPlaceholder": "Search by model, brand or storage...",
+    "brandLabel": "Brand",
+    "categories": [
+      "Phones"
+    ],
+    "allLabel": "All phones",
+    "countOne": "phone option",
+    "countMany": "phone options",
+    "empty": "No matching phones. Message us and we may be able to help source it.",
+    "photoLabel": "Product image",
+    "addCompare": "Compare",
+    "addedCompare": "Added to compare",
+    "compareSelected": "selected to compare",
+    "compareNow": "Compare phones",
+    "clear": "Clear",
+    "compareTitle": "Compare phones",
+    "specWarranty": "Warranty",
+    "specAvailability": "Availability",
+    "orderCta": "Enquire on WhatsApp",
+    "relatedLabel": "You may also like",
+    "orderMessage": "Hi {shop}, is the {name} ({model}) available? Listed at {price}.",
+    "priceSuffix": "",
+    "noPrice": "Ask for price"
+  },
+  "availability": {
+    "in": "Available",
+    "low": "Limited",
+    "out": "Unavailable",
+    "enq": "Confirm availability"
+  },
+  "highlights": [
+    {
+      "title": "Popular phone brands",
+      "text": "Browse Samsung Galaxy, Apple iPhone and Google Pixel models in one place."
+    },
+    {
+      "title": "Ask before you visit",
+      "text": "Send a WhatsApp enquiry to confirm the exact model, storage, condition and current price."
+    },
+    {
+      "title": "Visit us in the CBD",
+      "text": "Find Big City Gadgets at Ximex Mall, Harare CBD. Contact the shop for collection details."
+    }
+  ],
+  "visit": {
+    "heading": "Find Big City Gadgets",
+    "hoursLabel": "Business hours",
+    "whatsappLabel": "WhatsApp"
+  },
+  "footer": {
+    "credit": "Built by WeVibed"
+  }
+}

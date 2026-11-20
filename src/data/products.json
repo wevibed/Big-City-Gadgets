@@ -1,0 +1,331 @@
+{
+  "items": [
+    {
+      "id": "zflip3",
+      "name": "Samsung Galaxy Z Flip3",
+      "brand": "Samsung",
+      "model": "SM-F711",
+      "category": "Phones",
+      "price": 160,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zflip3/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "Confirm with the shop"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zflip3/01.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "zflip4",
+      "name": "Samsung Galaxy Z Flip4",
+      "brand": "Samsung",
+      "model": "SM-F721",
+      "category": "Phones",
+      "price": 180,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zflip4/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "Confirm with the shop"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zflip4/01.webp",
+        "/images/products/zflip4/02.webp",
+        "/images/products/zflip4/03.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "zflip5-256",
+      "name": "Samsung Galaxy Z Flip5",
+      "brand": "Samsung",
+      "model": "256GB",
+      "category": "Phones",
+      "price": 200,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zflip5/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "256GB"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zflip5/01.webp",
+        "/images/products/zflip5/02.webp",
+        "/images/products/zflip5/03.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "zflip5-512",
+      "name": "Samsung Galaxy Z Flip5",
+      "brand": "Samsung",
+      "model": "512GB",
+      "category": "Phones",
+      "price": 220,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zflip5/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "512GB"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zflip5/01.webp",
+        "/images/products/zflip5/02.webp",
+        "/images/products/zflip5/03.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "zflip6",
+      "name": "Samsung Galaxy Z Flip6",
+      "brand": "Samsung",
+      "model": "SM-F741",
+      "category": "Phones",
+      "price": 250,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zflip6/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "Confirm with the shop"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zflip6/01.webp",
+        "/images/products/zflip6/02.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "zflip7",
+      "name": "Samsung Galaxy Z Flip7",
+      "brand": "Samsung",
+      "model": "SM-F766",
+      "category": "Phones",
+      "price": 550,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zflip7/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "Confirm with the shop"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zflip7/01.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "zfold5-256",
+      "name": "Samsung Galaxy Z Fold5",
+      "brand": "Samsung",
+      "model": "256GB",
+      "category": "Phones",
+      "price": 400,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zfold5/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "256GB"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zfold5/01.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "zfold5-512",
+      "name": "Samsung Galaxy Z Fold5",
+      "brand": "Samsung",
+      "model": "512GB",
+      "category": "Phones",
+      "price": 430,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zfold5/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "512GB"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zfold5/01.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "zfold6",
+      "name": "Samsung Galaxy Z Fold6",
+      "brand": "Samsung",
+      "model": "SM-F956",
+      "category": "Phones",
+      "price": 550,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/zfold6/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "Confirm with the shop"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/zfold6/01.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    },
+    {
+      "id": "s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "model": "256GB / confirm",
+      "category": "Phones",
+      "price": 560,
+      "availability": "enq",
+      "tint": 2,
+      "image": "/images/products/s24-ultra/01.webp",
+      "specs": [
+        {
+          "label": "Condition",
+          "value": "Pre-loved \u2014 ask for current condition"
+        },
+        {
+          "label": "Storage",
+          "value": "256GB / confirm"
+        },
+        {
+          "label": "Availability",
+          "value": "Confirm on WhatsApp"
+        }
+      ],
+      "warranty": "Ask the shop to confirm",
+      "related": [],
+      "imageSource": "Client-provided Samsung product reference screenshot; optimized locally to WebP",
+      "gallery": [
+        "/images/products/s24-ultra/01.webp"
+      ],
+      "galleryNote": "Reference imagery only; confirm actual pre-loved device condition and photos with the shop."
+    }
+  ]
+}
